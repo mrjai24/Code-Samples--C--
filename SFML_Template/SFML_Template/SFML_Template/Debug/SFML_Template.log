@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SFML_Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Barriers.cpp
+  Bullet.cpp
+  Game.cpp
+C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\SFML_Template\src\Game.cpp(90,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\SFML_Template\src\Game.cpp(204,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\SFML_Template\src\Game.cpp(303,20): warning C4018: '<': signed/unsigned mismatch
+  InvaderBullets.cpp
+  Invaders.cpp
+C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\SFML_Template\src\Invaders.cpp(27,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Player.cpp
+  SoundEngine.cpp
+  Generating Code...
+C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\SFML_Template\src\Barriers.cpp(94): warning C4715: 'Barriers::getBounds': not all control paths return a value
+  SFML_Template.vcxproj -> C:\Users\Jai's Desktop\Documents\Uni\First Year\Term 2\Intro to Object Oriented Programming C++ - IMAT1908\Coursework\Final\Space_Invaders_P2566248\SFML_Template\SFML_Template\Debug\Space_Invaders_P2566248.exe
